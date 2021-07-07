@@ -31,8 +31,8 @@ http://magenicautomation.azurewebsites.net/Departments
 
 #### Test Case # 2
 1. Navigate to Employees Page
-2. http://magenicautomation.azurewebsites.net/Employees 
-NOTE: Verify if the following employee to be added is in the list
+http://magenicautomation.azurewebsites.net/Employees 
+2. NOTE: Verify if the following employee to be added is in the list
 - First name: John
 - Last name: Doe
 3. If the employee exists, Delete the target employee
